@@ -1,0 +1,14 @@
+iso-639 
+langid
+fasttext
+langdetect
+scikit-learn
+nbformat
+numpy
+pandas
+seaborn
+tensorflow
+plotly
+matplotlib
+sentence_transformers
+streamlit
