@@ -1,0 +1,154 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "D7y9V5G-uS8b9F7-Wwu4E",
+      "type": "image",
+      "x": 380,
+      "y": 200,
+      "width": 89.5272364903707,
+      "height": 169.4622690710588,
+      "angle": 0,
+      "strokeColor": "transparent",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1462385042,
+      "version": 308,
+      "versionNonce": 872292366,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1744926170912,
+      "link": null,
+      "locked": false,
+      "status": "pending",
+      "fileId": "83f7387e5c848b6de39e6b5b2ae2a00e22829635",
+      "scale": [
+        1,
+        1
+      ],
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 12.679245283018865,
+        "height": 24,
+        "naturalWidth": 24,
+        "naturalHeight": 24
+      }
+    },
+    {
+      "id": "tUCfWp4Mjlu0wtQlhr0Nh",
+      "type": "image",
+      "x": 470.9461908730085,
+      "y": 208.26783553390987,
+      "width": 91.53918395621277,
+      "height": 150.3242824347248,
+      "angle": 0,
+      "strokeColor": "transparent",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a6",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 2054928402,
+      "version": 199,
+      "versionNonce": 1738206798,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1744926170912,
+      "link": null,
+      "locked": false,
+      "status": "pending",
+      "fileId": "e8cd20d3ca3a30d3c571f872788718a876764abf",
+      "scale": [
+        -1,
+        1
+      ],
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 14.614674218738289,
+        "height": 24,
+        "naturalWidth": 24,
+        "naturalHeight": 24
+      }
+    },
+    {
+      "id": "nnwFBftrDqUV6sQDYxzMo",
+      "type": "text",
+      "x": 578,
+      "y": 262,
+      "width": 244.33206176757812,
+      "height": 48.6,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a7",
+      "roundness": null,
+      "seed": 850326610,
+      "version": 51,
+      "versionNonce": 723529166,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1744926186207,
+      "link": null,
+      "locked": false,
+      "text": "LangPrediction",
+      "fontSize": 36,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "LangPrediction",
+      "autoResize": true,
+      "lineHeight": 1.35
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {
+    "83f7387e5c848b6de39e6b5b2ae2a00e22829635": {
+      "mimeType": "image/svg+xml",
+      "id": "83f7387e5c848b6de39e6b5b2ae2a00e22829635",
+      "dataURL": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMDRlOGEiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1icmFpbi1jaXJjdWl0LWljb24gbHVjaWRlLWJyYWluLWNpcmN1aXQiPjxwYXRoIGQ9Ik0xMiA1YTMgMyAwIDEgMC01Ljk5Ny4xMjUgNCA0IDAgMCAwLTIuNTI2IDUuNzcgNCA0IDAgMCAwIC41NTYgNi41ODhBNCA0IDAgMSAwIDEyIDE4WiIvPjxwYXRoIGQ9Ik05IDEzYTQuNSA0LjUgMCAwIDAgMy00Ii8+PHBhdGggZD0iTTYuMDAzIDUuMTI1QTMgMyAwIDAgMCA2LjQwMSA2LjUiLz48cGF0aCBkPSJNMy40NzcgMTAuODk2YTQgNCAwIDAgMSAuNTg1LS4zOTYiLz48cGF0aCBkPSJNNiAxOGE0IDQgMCAwIDEtMS45NjctLjUxNiIvPjxwYXRoIGQ9Ik0xMiAxM2g0Ii8+PHBhdGggZD0iTTEyIDE4aDZhMiAyIDAgMCAxIDIgMnYxIi8+PHBhdGggZD0iTTEyIDhoOCIvPjxwYXRoIGQ9Ik0xNiA4VjVhMiAyIDAgMCAxIDItMiIvPjxjaXJjbGUgY3g9IjE2IiBjeT0iMTMiIHI9Ii41Ii8+PGNpcmNsZSBjeD0iMTgiIGN5PSIzIiByPSIuNSIvPjxjaXJjbGUgY3g9IjIwIiBjeT0iMjEiIHI9Ii41Ii8+PGNpcmNsZSBjeD0iMjAiIGN5PSI4IiByPSIuNSIvPjwvc3ZnPg==",
+      "created": 1744925826840,
+      "lastRetrieved": 1744925826840
+    },
+    "e8cd20d3ca3a30d3c571f872788718a876764abf": {
+      "mimeType": "image/svg+xml",
+      "id": "e8cd20d3ca3a30d3c571f872788718a876764abf",
+      "dataURL": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMDRlOGEiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tZXNzYWdlLWNpcmNsZS1pY29uIGx1Y2lkZS1tZXNzYWdlLWNpcmNsZSI+PHBhdGggZD0iTTcuOSAyMEE5IDkgMCAxIDAgNCAxNi4xTDIgMjJaIi8+PC9zdmc+",
+      "created": 1744926017990,
+      "lastRetrieved": 1744926017990
+    }
+  }
+}
